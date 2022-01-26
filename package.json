@@ -8,6 +8,10 @@
   },
   "author": "",
   "license": "ISC",
+  "browserslist": [
+    "> 1%",
+    "not dead"
+  ],
   "devDependencies": {
     "json-server": "^0.17.0",
     "webpack": "^5.67.0",
